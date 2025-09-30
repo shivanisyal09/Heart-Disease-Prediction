@@ -5,6 +5,7 @@ A comprehensive machine learning-based web application for predicting heart dise
 ![Heart Disease Prediction](https://img.shields.io/badge/Project-Heart%20Disease%20Prediction-blue)
 ![Machine Learning](https://img.shields.io/badge/ML-Classification-green)
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
+![Dataset](https://img.shields.io/badge/Dataset-Kaggle-orange)
 
 ## 📋 Project Overview
 
